@@ -1,0 +1,3 @@
+NO-GO — gate belum jalan; submitter yang akan membaliknya ke GO setelah kit check + gate.
+
+Entry lotre atas keputusan eksplisit Hadi 26 Nov 16:09 WIB (submit C1 apa adanya) + perintah submit langsung tanpa tanya 16:10 WIB. Mock v1 C1 60,00% di bawah bar 75%, bukan qualified.
